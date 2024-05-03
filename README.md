@@ -1,1 +1,1 @@
-# SynergyConsultancy-consulting-website-test-II
+[DEMO](https://panasiuknazar.github.io/SynergyConsultancy-consulting-website-test-II/)
